@@ -5,12 +5,12 @@
 # Step-1:-
 Before you begin, ensure you have the following installed:
 
-Docker/
-WSL/
+Docker,
+WSL,
 Git and Git Bash
 
 # Step-2:-
- Clone the Repository
+ Clone the Repository/n
 Clone the repository using Git:
 
 git clone [https://github.com/your-repo/-project.git](https://github.com/rishavand1/Devops_Flipr.git)
