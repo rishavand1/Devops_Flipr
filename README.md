@@ -5,8 +5,8 @@
 # Step-1:-
 Before you begin, ensure you have the following installed:
 
-Docker
-WSL
+Docker/
+WSL/
 Git and Git Bash
 
 # Step-2:-
